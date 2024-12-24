@@ -1,1 +1,2 @@
 My new test message
+another one message has been added
