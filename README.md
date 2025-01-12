@@ -1,3 +1,8 @@
+ssh-keygen  - generate a ssh key
+git config --global user.name "name"
+git config --global user.email yuor email
+git config --global --list  - show user's settings
+git clone  link from your github  - Clonning a remote repository  
 touch name.txt - create txt file
 echo "first message" >> name.txt - add new string in current file
 cat name.txt - see what is in this file
