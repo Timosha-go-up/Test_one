@@ -12,4 +12,5 @@ git log - show the history of existing commits;
 git brunch  - view exists branches 
 git branch <name branch>  - create new branch
 git switch or git checkout – jump to another branch
+
  
