@@ -9,3 +9,7 @@ cat name.txt - see what is in this file;
 git add .  - add untraceable files;
 git commit -m "describe the changes"  - create new commit;
 git log - show the history of existing commits;
+git brunch  - view exists branches 
+git branch <name branch>  - create new branch
+git switch or git checkout – jump to another branch
+ 
